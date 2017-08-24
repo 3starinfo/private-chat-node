@@ -1,4 +1,3 @@
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
 // This file is executed in the browser, when people visit /chat/<random id>
 
 $(function(){
