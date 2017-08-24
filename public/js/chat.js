@@ -1,6 +1,6 @@
 // This file is executed in the browser, when people visit /chat/<random id>
 
-$(function(){
+jQuery(function(){
 
 	// getting the id of the room from the url
 	var id = Number(window.location.pathname.match(/\/chat\/(\d+)$/)[1]);
